@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hanor3</string>
+    <string name="filter">chose filter</string>
+    <string-array name="filter_array">
+        <item>original</item>
+        <item>Highlight</item>
+        <item>Invert</item>
+        <item>GrayScale</item>
+        <item>Gomma</item>
+        <item>ColorFitler</item>
+        <item>Contrast</item>
+        <item>Tint</item>
+        <item>boost</item>
+    </string-array>
+</resources>
